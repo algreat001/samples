@@ -67,8 +67,8 @@ function getTransportMail() {
 		port: 465,
 		secure: true,
 		auth: {
-			user: "office@bestbc.ru", //"admin@energy-soft.ru",
-			pass: "lqrjamikbzxqhkzw", // "cerfzefrkrgmhjwz",
+			user: "admin@energy-soft.ru", //"office@bestbc.ru", //
+			pass: "cerfzefrkrgmhjwz", //"lqrjamikbzxqhkzw", //
 		},
 	});
 }

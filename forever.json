@@ -4,7 +4,7 @@
     "watch": true,
     "script": "server.js",
     "sourceDir": "/var/www/bestbc/site",
-    "logFile": "/var/log/nodejs/bestbc/site/forever.log",
+    "logFile": "/var/log/nodejs/log/bestbc/site/forever.log",
     "outFile": "/var/log/nodejs/log/bestbc/site/out.log",
     "errFile": "/var/log/nodejs/log/bestbc/site/error.log",
     "args": []
